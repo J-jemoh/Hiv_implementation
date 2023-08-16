@@ -8,7 +8,7 @@ library(shinydashboard)
 
 # Load your CombinedDataSet CSV
 hivdata <- read.csv("CombinedDataSet.csv")
-api_key <- "AIzaSyCVSSQStpsE-NC3nskIbt0OqCYvQg8KPU8"  # Replace with your actual API key
+api_key <- "#"  # Replace with your actual API key
 
 # Extract State and EHEGeographicPriorityArea columns from the dataset
 locations <- paste(hivdata$State, hivdata$EHEGeographicPriorityArea, sep = ", ")
