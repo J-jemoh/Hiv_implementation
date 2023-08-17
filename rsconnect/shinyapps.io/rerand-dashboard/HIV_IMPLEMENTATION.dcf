@@ -1,0 +1,13 @@
+name: HIV_IMPLEMENTATION
+title: HIV_IMPLEMENTATION
+username:
+account: rerand-dashboard
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9613725
+bundleId: 7579533
+url: https://analytic-dashboard.shinyapps.io/HIV_IMPLEMENTATION/
+when: 1692283935.27919
+lastSyncTime: 1692283935.27921
+asMultiple: FALSE
+asStatic: FALSE
